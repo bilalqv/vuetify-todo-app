@@ -1,19 +1,24 @@
 # vuetify-todo-app
 
+
 ## Project setup
+
+```
+git clone https://github.com/crediblebilal/vuetify-todo-app.git
+```
+
+```
+cd vuetify-todo-app
+```
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+This app fetches data from the server created by GaganDeep, so the functionalities of the app may not be working right now.
